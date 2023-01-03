@@ -43,6 +43,7 @@ mod tests {
         assert_eq!(trigger.input(4), false);
         assert_eq!(trigger.input(5), false);
         assert_eq!(trigger.input(11), true);
+        trigger.input(12);
         assert_eq!(trigger.input(8), true);
         assert_eq!(trigger.input(4), false);
     }

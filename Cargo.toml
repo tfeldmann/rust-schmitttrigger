@@ -3,8 +3,9 @@ name = "schmitttrigger"
 version = "0.1.0"
 edition = "2021"
 authors = ["Thomas Feldmann <mail@tfeldmann.de>"]
-description = "A generic SchmittTrigger implementation"
+license = "MIT"
 readme = "README.md"
+description = "A generic SchmittTrigger implementation"
 repository = "https://github.com/tfeldmann/rust-schmitttrigger/"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
